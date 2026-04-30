@@ -34,7 +34,11 @@ This project demonstrates a full-stack approach to data science by combining a r
    ```bash
    pip install -r requirements.txt
    python app.py
-👨‍💻 Author
+
+4. **Access the web app :**
+Open your browser and navigate to http://127.0.0.1:5000
+
+👨‍💻 Author :
 Tamal Das
 
 GitHub: @TechnoWeb-Tamal
