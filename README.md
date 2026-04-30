@@ -23,6 +23,22 @@ This project demonstrates a full-stack approach to data science by combining a r
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**
-```bash
-git clone [https://github.com/TechnoWeb-Tamal/Stock-Price-Predictor.git](https://github.com/TechnoWeb-Tamal/Stock-Price-Predictor.git)
-cd Stock-Price-Predictor
+   ```bash
+   git clone [https://github.com/TechnoWeb-Tamal/Stock-Price-Predictor.git](https://github.com/TechnoWeb-Tamal/Stock-Price-Predictor.git)
+    cd Stock-Price-Predictor
+2. **Create a Setup Environment :**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+3. **Install dependencies & Run :**
+   ```bash
+   pip install -r requirements.txt
+   python app.py
+👨‍💻 Author
+Tamal Das
+
+GitHub: @TechnoWeb-Tamal
+
+LinkedIn: tamal-das-898116312
+
+Hugging Face: TechnicalTamal69
