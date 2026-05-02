@@ -43,6 +43,6 @@ Tamal Das
 
 GitHub: @TechnoWeb-Tamal
 
-LinkedIn: tamal-das-898116312
+LinkedIn: tamaldas-ai-ml
 
 Hugging Face: TechnicalTamal69
